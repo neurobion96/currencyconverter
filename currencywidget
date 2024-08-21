@@ -1,0 +1,17 @@
+<div id='gcw_mainF4L2NsAzl' class='gcw_mainF4L2NsAzl'></div>
+<a id='gcw_siteF4L2NsAzl' href='https://freecurrencyrates.com/en/'>FreeCurrencyRates.com</a>
+<script>
+function reloadF4L2NsAzl(){ 
+   var sc = document.getElementById('scF4L2NsAzl');
+   if (sc) sc.parentNode.removeChild(sc);
+   sc = document.createElement('script');
+   sc.type = 'text/javascript';
+   sc.charset = 'UTF-8';
+   sc.async = true;
+   sc.id='scF4L2NsAzl';
+   sc.src = 'https://freecurrencyrates.com/en/widget-horizontal?iso=HKD-PHP-JPY-USD&df=2&p=F4L2NsAzl&v=fits&source=fcr&width=900&width_title=225&firstrowvalue=1&thm=A6C9E2,FCFDFD,4297D7,5C9CCC,FFFFFF,C5DBEC,FCFDFD,2E6E9E,000000&title=Currency%20Converter&tzo=-540';
+   var div = document.getElementById('gcw_mainF4L2NsAzl');
+   div.parentNode.insertBefore(sc, div);
+} 
+reloadF4L2NsAzl(); 
+</script>
